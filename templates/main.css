@@ -1,0 +1,49 @@
+body{
+    font-family: 'Roboto Mono';
+    margin: 0;
+  }
+  h1 {
+    text-align: center;
+    color: white;
+    font-weight:700;
+    text-transform: uppercase;
+    font-size: 40px;
+    background-color: #660000;
+    margin-top:0;
+  }
+  
+  label{
+    color: white;
+  }
+  
+  p{
+    color: white;
+  }
+  div{
+  
+  }
+  .login {
+    margin-top: 60px;
+    padding: 0 40px 0 100px;
+  }
+  input {
+    display: block;
+    margin-right: auto;
+    margin-left: 600px;
+  }
+  .predict{
+    color: white;
+  }
+  
+  h2 {
+    text-align:left;
+    color: white;
+    font-weight:700;
+    text-transform: uppercase;
+    font-size: 30px;
+    margin-top:30px;
+    position: relative;
+    border-top: 1px solid white;
+    padding: 0 0 0 40px
+  }
+  
