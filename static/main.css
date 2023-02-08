@@ -1,0 +1,95 @@
+body {
+    font-family: "Roboto Mono";
+    margin: 0;
+  }
+  h1 {
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 40px;
+    background-color: #660000;
+    margin-top: 0;
+  }
+  
+  label {
+    color: white;
+  }
+  
+  p {
+    color: white;
+  }
+  
+  #login {
+    margin-top: 60px;
+    padding: 0 100px 0 100px;
+  }
+  
+  input {
+    display: block;
+    margin-right: auto;
+    margin-left: 600px;
+  }
+  #predict {
+    color: white;
+    padding: 0 0 10px 0;
+  }
+  
+  input[type="text"] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  .wrapper {
+    position: relative;
+  }
+  
+  #profile {
+    border-radius: 50%;
+    position: relative;
+    left: 90px;
+  }
+  
+  #text {
+    text-align: left;
+    color: white;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 30px;
+    position: relative;
+    margin-left: 10px;
+  }
+  
+  #contact {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 300px;
+    height: 400px;
+    background: black;
+    border: 5px solid #660000;
+    margin-right: 50px;
+  }
+  
+  #contact p {
+    position: relative;
+    left: 10px;
+  }
+  
+  button {
+    position: relative;
+    background-color: #800517;
+    border: none;
+    font-size: 20px;
+    color: #ffffff;
+    padding: 15px 32px;
+    width: 200px;
+    text-align: center;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+  
